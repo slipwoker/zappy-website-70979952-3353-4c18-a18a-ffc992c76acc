@@ -1,0 +1,88 @@
+# שרון שירותי רכב — Generative Engine Optimization Map
+
+> An automotive repair and mechanical services business specializing in transmission, gas system, and brake repairs. The business serves a wide range of clients across various companies, with only a small number of exceptions. The focus is on comprehensive vehicle care and mechanical expertise for fleet and corporate clients.
+
+---
+
+## Pages
+
+### בית
+https://-70979952.zappy5.app
+מומחיות בתיקון תיבות הילוכים, מערכות גז ובלמים לרכבי חברות וציי רכב. פתרונות מקצועיים ואמינים לתיקון מחשב רכב וחשמל רכב. התקשרו עוד היום לטיפול ללא פשרות!
+
+### שירותים
+https://-70979952.zappy5.app/services
+משיקום מחשב רכב ועד תיקון חשמל רכב מדויק – סל השירותים המקיף שלנו מחזיר את צי הרכב שלכם לכביש מהר יותר. גלו איך אנחנו דואגים לכל פרט מכני.
+
+### אודות
+https://-70979952.zappy5.app/about
+שרון שירותי רכב מתמחה בתיקוני חשמל רכב מורכבים ובטיפולי מניעה לחברות מובילות. הכירו את הצוות שמאחורי המומחיות שמחזיקה את הציים שלכם בתנועה.
+
+### צור קשר
+https://-70979952.zappy5.app/contact
+צריכים תיקון חשמל רכב דחוף או אבחון מחשב רכב לצי שלכם? השאירו פרטים ונחזור אליכם עם הצעה משתלמת. שרון שירותי רכב – זמינים לכל שאלה.
+
+### תודה על פנייתך | שרון שירותי רכב
+https://-70979952.zappy5.app/thank-you
+שרון שירותי רכב - תודה על פנייתך | שרון שירותי רכב
+
+## Legal & Policy
+
+### Privacy Policy
+https://-70979952.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-70979952.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-70979952.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-70979952.zappy5.app/contact
+- Endpoint: https://-70979952.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About שרון שירותי רכב
+An automotive repair and mechanical services business specializing in transmission, gas system, and brake repairs. The business serves a wide range of clients across various companies, with only a small number of exceptions. The focus is on comprehensive vehicle care and mechanical expertise for fleet and corporate clients.
+
+## Services/Products
+- תיקון גירים
+- תיקון מערכת גז
+- תיקון בלמים (ברקסים)
+- שירותי רכב כלליים
+
+## Target Audience
+- מנהלי צי רכב
+- בעלי עסקים מקומיים
+- תיקון רכבים וטיפול יסודי ומקצועי
+
+## Industry
+Automotive Repair & Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-70979952.zappy5.app/sitemap.xml
+- Robots: https://-70979952.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-70979952.zappy5.app/llms-full.txt
